@@ -54,6 +54,7 @@ python menu.py
   <img src="demo_gifs/tunnele1_demo.gif" width="30%" />
   <img src="demo_gifs/tunnele2_demo.gif" width="30%" />
 </p>
+
 ## 📁 Структура проекта
 *   `menu.py` — главный файл лаунчера и инициализация графического интерфейса.
 *   `settings.py` — глобальные константы проекта (разрешение экрана, FPS, цвета).
