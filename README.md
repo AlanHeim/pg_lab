@@ -25,7 +25,7 @@
 ### 1. Клонирование репозитория
 Склонируйте проект на свой компьютер:
 ```bash
-git clone https://github.com
+git clone https://github.com/AlanHeim/pg_lab
 cd pg_lab
 ```
 
